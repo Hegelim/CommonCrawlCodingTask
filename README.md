@@ -4,15 +4,15 @@ The Coding Task from Trust Lab
 ## Timeline
 My timeline to tackle this task can be broken down as 
 follows: 
-1. I first spent around 1 hour to get myself familiar with some 
+1. I first spent around 1 hour to get familiar with some 
 basic concepts of Common Crawl including what it is, 
 how to download the data, among other things. 
 2. Thinking that there must be existing tools developed to scrape 
 data from Common Crawl, I spend another 1 hour looking for 
 existing Python packages/tools that might be helpful. 
-3. I tried a bunch of these tools and many failed.
-4. I tried SQL and it works.
-5. Write README
+3. I tried a bunch of these tools and many of them failed.
+4. I tried SQL and it worked.
+5. I uploaded files to the repo.
 
 
 ## Failed attempts
