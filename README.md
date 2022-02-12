@@ -66,8 +66,10 @@ limit 1000;
 ```
 Because AWS didn't allow me to parse huge volume of data, I ended up doing 
 this for each month and combined the data using `processing.py`
+
 4. `processing.py` eliminated rows that have missing values and grouped by `url_path` to make 
 sure each url is unique
+
 5. Note that `Month` here doesn't necessarily represent the month the posts
 were made on the websites. Instead, it represents the month of 
 the 2020 archive where the data is stored
