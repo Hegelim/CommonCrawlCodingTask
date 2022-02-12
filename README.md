@@ -73,3 +73,6 @@ sure each url is unique
 5. Note that `Month` here doesn't necessarily represent the month the posts
 were made on the websites. Instead, it represents the month of 
 the 2020 archive where the data is stored
+
+## Result
+Please see the `result.csv` as the final result.
